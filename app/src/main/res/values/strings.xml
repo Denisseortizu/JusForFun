@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RelativeLayoutExample</string>
+    <string name="title_Course">Your Courses</string>
+    <string name="lb_progress">Overall progress</string>
+    <string name="lb_coding">CODING</string>
+    <string name="lb_article">ARTICLE</string>
+    <string name="title_JS">Introduction to JavaScript</string>
+    <string name="title_basics">Basics of HTML and CSS</string>
+    <string name="desc_basics">In this corse we´ll learn the  basic tools for coders</string>
+    <string name="title_achive">You haven´t miss a class in three days</string>
+    <string name="title_tips">Tips for better team work</string>
+</resources>
